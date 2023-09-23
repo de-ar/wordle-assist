@@ -1,5 +1,5 @@
 {
-  "name": "@de-ar/wordle-assist",
+  "name": "wordle-assist",
   "version": "0.0.1",
   "description": "A cli tool to help you out with wordle",
   "keywords": [
